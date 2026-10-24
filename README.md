@@ -2,11 +2,11 @@
 
 **Founder. Engineer. Builder.**
 
-Co-founder & CTO of **[MarloAI](#)**. I build systems that run at scale, and I stay with them until they win.
+Co-founder & CTO of **[MarloAI](https://marloai.com/)**. I build systems that run at scale, and I stay with them until they win.
 
 ---
 
-### 🚀 Now: MarloAI
+### 🚀 Now: [MarloAI](https://marloai.com/) · [@marlo-labs](https://github.com/marlo-labs)
 
 The platform and the team that run your marketing.
 
@@ -16,19 +16,19 @@ Marlo is an AI-native marketing platform for multi-location brands. Agents that 
 
 ### 🛠️ The track record
 
-**Burger King / Restaurant Brands International**
+**Burger King / Restaurant Brands International**\
 Led 40 to 60 engineers rebuilding the digital ecosystem across four global QSR brands. Shipped the first digital Roll Up to Win and the Tim Hortons app. Co-created the [BK Assistant](https://people.com/burger-king-launches-ai-chatbot-patty-to-coach-employees-on-politeness-11915480). Software that millions of people touch every day, where downtime is measured in lost Whoppers.
 
-**Blendspace** · Y Combinator / Imagine K12 S2012 Cohort
+**Blendspace** · Y Combinator / Imagine K12 S2012 Cohort\
 Platform used by teachers worldwide. Acquired by TES Global.
 
-**Meta Angels**
+**Meta Angels**\
 Created a completely new standard to loan assets backed by the blockchain. Built the mint, launched the collection. Because the best way to understand a new platform is to ship on it.
 
-**Microsoft**
+**Microsoft**\
 Excel Web team. Learned what engineering rigor looks like at planetary scale.
 
-**Georgia Tech**
+**Georgia Tech**\
 Computer Science.
 
 ---
