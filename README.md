@@ -22,7 +22,7 @@ Led 40 to 60 engineers rebuilding the digital ecosystem across four global QSR b
 **Blendspace** · Y Combinator / Imagine K12 S2012 Cohort\
 Platform used by teachers worldwide. Acquired by TES Global.
 
-**Meta Angels**\
+**[Meta Angels](https://x.com/meta_angels)**\
 Created a completely new standard to loan assets backed by the blockchain. Built the mint, launched the collection. Because the best way to understand a new platform is to ship on it.
 
 **Microsoft**\
